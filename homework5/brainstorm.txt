@@ -1,0 +1,13 @@
+1) 5 topics in science that are interesting to me are solar cells, molecular organic frameworks (or MOFs), cancer drug research, astrochemistry, and spectroscopic analysis of chemical systems.
+
+2) The three topics I'll choose are solar cells, cancer drug research, and spectroscopic analysis of chemical systems.
+    Solar cells: I found a website (https://www.perovskitedatabase.com/) that has a database for perovskite solar cells, a new topic of research I was recently introduced to and want to learn more about. I think it's particularly interesting due to its renewable energy applications and would love to analyze datasets about this topic.
+    Cancer drug research: I found a website (https://challenge2024.isic-archive.com/) that should be a database comparing information about malignant vs. benign skin tumors on a wide variety of patients. I thought it seemed very interesting to analyze and was also very relevant to this topic due to it being an entire data set about skin cancer.
+    Spectroscopic analysis of chemical systems: This topic was pretty broad, but I decided to focus on analyzing pattern xray diffraction data from a library found on the website https://pymatgen.org/. It's a type of spectroscopy used in the research lab I'm in, so I thought it would be nice to use my new python skills to analyze data sets using this technique.
+
+3) Choosing the spectroscopic analysis topic, I could try to use functions to define functions that solve crystal patterns of certain systems. I could also attempt trying to visualize data in the form of a crystal structure using the data sets and python I've learned.
+
+4) Two possible project ideas are:
+    Learning how to solve crystal structures collected from pattern xray diffraction and using this function to visualize the data.
+    Writing functions that automate peak identification and molecules' phases.
+
